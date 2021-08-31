@@ -20,7 +20,7 @@ Asignatura: Programación Orientada a Objetos
 
 Docente: Ing. Cesar Osorio
 
-Tema: 
+Tema: BASE DE DATOS 
 
 
 OBJETIVOS.-
