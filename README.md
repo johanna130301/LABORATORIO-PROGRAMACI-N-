@@ -1,6 +1,4 @@
-# LABORATORIO-PROGRAMACION-
-
-**Taller Grupal** 
+# LABORATORIO-PROGRAMACION BASE DE DATOS -
 
 Integrantes: Quilumbaquín Lenin
 
@@ -10,7 +8,7 @@ Integrantes: Quilumbaquín Lenin
              
              Vallejo Keily
              
-             Mosquera William 
+             Mosquera William
              
 NRC: 3725
 
