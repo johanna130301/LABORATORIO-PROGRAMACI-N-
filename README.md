@@ -23,15 +23,18 @@ Tema: BASE DE DATOS
 
 **OBJETIVOS**
 
-Objetivo General 
+* Objetivo General 
 
 Analizar la realización, generación y acceso a una Base de Datos en SQL.
 
 Objetivos específicos
 
 •	Interpretar el funcionamiento de una baso de datos mediante el uso del lenguaje desarrollado en SQL.
+
 •	Identificar los comandos necesarios para el desarrollo del ejercicio planteado.
+
 •	Identificar la organización de las bases de datos, así como también, la clasificación de estas mediante investigación y análisis.
+
 •	Entender y aplicar las sentencias para obtener una correcta filtración de los resultados obtenidos.
 
 **MARCO TEÓRICO**
@@ -120,7 +123,7 @@ Where PRODUCTOS.categoriaID = CATEGORIAS.CATEGORIAID ;
 
 **REFERENCIAS**
 
-Escuel De Ingenieria Industrial. (2 de Febrero de 2015). Obtenido de https://www.slideshare.net/JessicaParra15/base-de-datos-programacion-64593256
+* Escuel De Ingenieria Industrial. (2 de Febrero de 2015). Obtenido de https://www.slideshare.net/JessicaParra15/base-de-datos-programacion-64593256
 
-Oracle. (22 de Junio de 2014). Obtenido de https://www.oracle.com/mx/database/what-is-database/
+* Oracle. (22 de Junio de 2014). Obtenido de https://www.oracle.com/mx/database/what-is-database/
 
