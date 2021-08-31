@@ -63,7 +63,7 @@ La flexibilidad bajo demanda es la característica principal de MySQL.
 
 MySQL es el DBMS detrás de algunos de los mejores sitios web y aplicaciones basadas en la web del mundo, incluyendo Airbnb, Uber, LinkedIn, Facebook, Twitter y YouTube.
 
-**PROCEDIMEINTO**
+**PROCEDIMIENTO**
 
 Con el script dado en clase para la creación de las diversas tablas de una base de
 datos; genere las instrucciones necesarias para extraer datos según los siguientes
