@@ -83,5 +83,7 @@ RECOMENDACIONES.-
 
 2. Revisar cada uno de los comandos propuestos en clases para poder verificar que el trabajo este yendo de una manera ordenada y adecuada.
 
+3. Para realizar la busqueda debemos tener en cuento lo que se dispone en en cada tabla creada para con ello poder realizar una busqueda mas exitosa asi como tambien si se dispone de una infromacion abundante realizar las condiciones para que se obtenga la informacion mas relevante e importante.
+
 REFERENCIAS
 
