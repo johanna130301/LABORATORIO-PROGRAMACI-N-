@@ -67,3 +67,9 @@ RECOMENDACIONES.-
 
 REFERENCIAS
 
+Escuel De Ingenieria Industrial. (2 de Febrero de 2015). Obtenido de https://www.slideshare.net/JessicaParra15/base-de-datos-programacion-64593256
+
+Oracle. (22 de Junio de 2014). Obtenido de https://www.oracle.com/mx/database/what-is-database/
+
+
+
