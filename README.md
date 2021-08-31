@@ -27,7 +27,7 @@ Tema: BASE DE DATOS
 
 Analizar la realización, generación y acceso a una Base de Datos en SQL.
 
-Objetivos específicos
+* Objetivos específicos
 
 •	Interpretar el funcionamiento de una baso de datos mediante el uso del lenguaje desarrollado en SQL.
 
