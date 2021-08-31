@@ -27,7 +27,8 @@ OBJETIVOS.-
 
 MARCO TEÓRICO.-
 
-PROCEDIMEINTO
+PROCEDIMEINTO.-
+
 Con el script dado en clase para la creación de las diversas tablas de una base de
 datos; genere las instrucciones necesarias para extraer datos según los siguientes
 requerimientos:
@@ -41,21 +42,31 @@ SELECT ORDENID,NOMBRECONTACTO as Nomb_Cliente,ordenes.descuento,empleados.NOMBRE
 from clientes,ordenes,empleados
 where clientes.CLIENTEID = ordenes.CLIENTEID and
 empleados.empleadoID = ordenes.EMPLEADOID;
+
 ![image](https://user-images.githubusercontent.com/84586923/131421495-e194a2c3-e59d-4a08-bf67-96de2b7b78eb.png)
+
 -	Consulta para extraer los productos con el nombre de proveedor y su contacto.
+
 **Codigo**
 SELECT DESCRIPCION as PRODUCTO,NOMBREPROV as NOMB_PROVEEDOR,CONTACTO
 from proveedores,productos
 where productos.PROVEEDORID=proveedores.PROVEEDORID;
+
 ![image](https://user-images.githubusercontent.com/84586923/131421632-4850d79d-726b-4a49-b722-9bf5b53d3c0c.png)
+
 - Consulta para extraer de la tabla ordenes los clientes cuyo nombre empiecen con la letra s
+
 **Codigo**
 SELECT NOMBRECIA,NOMBRECONTACTO FROM clientes WHERE NOMBRECIA like 's%';
+
 ![image](https://user-images.githubusercontent.com/84586923/131421706-ff82916d-0809-4bfb-a8ef-a3eb78ef53fd.png)
+
 - Consulta para mostrar los productos con sus categorías ordenado por categoría
+
 **Codigo**
 select DESCRIPCION ,categorias.NOMBRECAT FROM PRODUCTOS,CATEGORIAS
 Where PRODUCTOS.categoriaID = CATEGORIAS.CATEGORIAID ;
+
 ![image](https://user-images.githubusercontent.com/84586923/131421791-61a4ce36-ef0b-4208-8d8a-e113000cda0a.png)
 
 CONCLUSIONES.-
