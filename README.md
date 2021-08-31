@@ -25,6 +25,17 @@ Tema: BASE DE DATOS
 
 OBJETIVOS.-
 
+Objetivo General 
+
+Analizar la realización, generación y acceso a una Base de Datos en SQL.
+
+Objetivos específicos
+
+•	Interpretar el funcionamiento de una baso de datos mediante el uso del lenguaje desarrollado en SQL.
+•	Identificar los comandos necesarios para el desarrollo del ejercicio planteado.
+•	Identificar la organización de las bases de datos, así como también, la clasificación de estas mediante investigación y análisis.
+•	Entender y aplicar las sentencias para obtener una correcta filtración de los resultados obtenidos.
+
 MARCO TEÓRICO.-
 
 Una base de datos es una colección organizada de información estructurada, o datos, típicamente almacenados electrónicamente en un sistema de computadora. Una base de datos es usualmente controlada por un sistema de gestión de base de datos (DBMS). En conjunto, los datos y el DBMS, junto con las aplicaciones que están asociados con ellos, se conocen como un sistema de base de datos, que a menudo se reducen a solo base de datos.
